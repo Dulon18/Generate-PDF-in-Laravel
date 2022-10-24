@@ -9,4 +9,4 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80118217/197161671-eaad0dea-0b45-4f3a-98bc-b7bcfe080578.JPG"></p>
+<img width="700px" src="https://user-images.githubusercontent.com/80118217/197161671-eaad0dea-0b45-4f3a-98bc-b7bcfe080578.JPG"></p>
